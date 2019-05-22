@@ -1,7 +1,7 @@
 {
   "name":"VIDLY",
   "version": "1.0.0",
-  "description": "",
+  "description": "Video Store management app",
   "main": "index.js",
   "scripts": {
     "test": "jest --watchAll --verbose",
