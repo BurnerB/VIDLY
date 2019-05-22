@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --watchAll --verbose",
+    "coverage":"npm test && nyc report --reporter=text-lcov | coveralls"
     "start":"node index.js"
   },
   "engines":{
