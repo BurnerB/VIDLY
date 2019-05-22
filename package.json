@@ -11,8 +11,11 @@
   "engines":{
     "node":"10.15.3"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "VIDLY",
+    "node"
+  ],
+  "author": "BurnerB",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^3.0.6",
